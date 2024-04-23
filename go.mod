@@ -1,4 +1,4 @@
-module github.com/joselitofilho/aws-terraform-generator
+module github.com/rafaelm93/aws-terraform-generator
 
 go 1.16
 
@@ -9,8 +9,8 @@ require (
 	github.com/diagram-code-generator/template v1.0.0
 	github.com/ettle/strcase v0.2.0
 	github.com/fatih/color v1.16.0
-	github.com/joselitofilho/drawio-parser-go v0.3.2
-	github.com/joselitofilho/hcl-parser-go v0.1.0
+	github.com/rafaelm93/drawio-parser-go v0.3.2
+	github.com/rafaelm93/hcl-parser-go v0.1.0
 	github.com/spf13/cobra v1.8.0
 	github.com/stretchr/testify v1.9.0
 	go.uber.org/mock v0.4.0
