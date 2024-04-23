@@ -1,4 +1,4 @@
-module github.com/rafaelm93/aws-terraform-generator
+module github.com/joselitofilho/aws-terraform-generator
 
 go 1.16
 
