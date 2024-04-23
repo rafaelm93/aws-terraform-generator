@@ -1,6 +1,6 @@
-module github.com/joselitofilho/aws-terraform-generator
+module github.com/rafaelm93/aws-terraform-generator
 
-go 1.21.6
+go 1.16
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.7
